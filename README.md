@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achmad Risel Araby</h1>
-<h3 align="center">🧑‍💻 I’m interested in Data Science and Computational Science(Quant Finance)</h3>
+<h3 align="center">🧑‍💻 I’m interested in Data Science and Computational Science(Quant Finance & Physics)</h3>
 
 - 🌱 Currently learning **Natural Language Processing**
 
