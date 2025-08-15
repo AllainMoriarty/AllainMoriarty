@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achmad Risel Araby</h1>
 <h3 align="center">🧑‍💻 I’m interested in Data Science and Computational Science(Quant Finance & Physics)</h3>
 
-- 🌱 Currently learning **Stochastic Calculus**
+- 🌱 Currently learning **Reinforcement Learning**
 
 - 📝 Regularly write articles on [https://medium.com/@allainverse](https://medium.com/@allainverse)
 
