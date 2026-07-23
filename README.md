@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achmad Risel Araby</h1>
 <h3 align="center">🧑‍💻 I’m interested in Control and Dynamical System of AI and Robotics</h3>
 
-- 🌱 Currently learning **Vision-Language-Action (VLA)**
+- 🌱 Currently learning **Ordinary Differential Equations (ODEs)**
 
 - 📝 Regularly write articles on [https://medium.com/@allainmoriarty](https://medium.com/@allainmoriarty)
 
