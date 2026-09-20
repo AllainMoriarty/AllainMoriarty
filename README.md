@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Achmad Risel Araby</h1>
-<h3 align="center">🧑‍💻 I’m interested in RL & Inference Engineering</h3>
+<h1 align="center">Hi, I'm Achmad Risel Araby</h1>
+<h3 align="center">I’m interested in RL & Inference Engineering</h3>
 
 - 🌱 Currently learning **Ordinary Differential Equations (ODEs)**
 
